@@ -1,5 +1,5 @@
 .board { 
-	height:50%; 
+	height:80%; 
     width: 50%;
     display: inline-block;}
 
@@ -11,7 +11,7 @@
 	border-radius: 10px;
 	float: left;
 	margin: 8%;
-	;
+	
 
 }
 nav { background-color: #808080;}
@@ -33,10 +33,19 @@ a:hover {background-color:  #ee5f3c;}
       }
 
 
-h1 { color: rgb(2,128,128);}
-h2 {color:#ffd700;}
+h1 { color: rgb(2,128,128);
+  text-align: center;}
+h2 {color:#ffd700;
+   text-align: center}
 
 .name {color: #ff0000;}
 
 footer, h1, h2, h3, p { text-align: center; }
 footer {background-color: #808080;}
+
+
+img {
+	height: 200px;
+  width: 150px;
+}
+
